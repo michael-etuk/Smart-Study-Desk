@@ -62,9 +62,13 @@ Screenshots/ will contain project images and demonstrations.
 
 Michael Etukudoh
 
+<<<<<<< HEAD
 ### Circuit Overview
 
 ![Circuit Overview](Screenshots/circuit-overview.png)
+=======
+## Screenshots
+>>>>>>> 588534beb33e4954065139cd7f08aa5a78977b38
 
 ### Main Menu
 
@@ -74,6 +78,7 @@ Michael Etukudoh
 
 ![Statistics Screen](Screenshots/stats-screen.png)
 
+<<<<<<< HEAD
 ### Settings Menu
 
 ![Settings Menu](Screenshots/settings-menu.png)
@@ -81,3 +86,8 @@ Michael Etukudoh
 ### Study Analytics Graph
 
 ![Study Analytics Graph](Screenshots/study-graph.png)
+=======
+### Study Analytics Graph
+
+![Study Analytics Graph](Screenshots/study-graph.png)
+>>>>>>> 588534beb33e4954065139cd7f08aa5a78977b38
