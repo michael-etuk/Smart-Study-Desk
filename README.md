@@ -61,3 +61,23 @@ Screenshots/ will contain project images and demonstrations.
 ## Author
 
 Michael Etukudoh
+
+### Circuit Overview
+
+![Circuit Overview](Screenshots/circuit-overview.png)
+
+### Main Menu
+
+![Main Menu](Screenshots/main-menu.png)
+
+### Statistics Screen
+
+![Statistics Screen](Screenshots/stats-screen.png)
+
+### Settings Menu
+
+![Settings Menu](Screenshots/settings-menu.png)
+
+### Study Analytics Graph
+
+![Study Analytics Graph](Screenshots/study-graph.png)
