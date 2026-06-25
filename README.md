@@ -61,3 +61,17 @@ Screenshots/ will contain project images and demonstrations.
 ## Author
 
 Michael Etukudoh
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](Screenshots/main-menu.png)
+
+### Statistics Screen
+
+![Statistics Screen](Screenshots/stats-screen.png)
+
+### Study Analytics Graph
+
+![Study Analytics Graph](Screenshots/study-graph.png)
